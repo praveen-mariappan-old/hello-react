@@ -721,3 +721,56 @@
 2025-08-29 21:36:18,892 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-08-29 21:36:18,900 - Knowledge - INFO - Saving knowledge to Redis...
 2025-08-29 21:36:18,909 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-08-29 21:46:40,973 - Knowledge - INFO - Redis support added with prefix knowledge:b1358k8:
+2025-08-29 21:46:40,995 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-29 21:46:40,995 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:40,995 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:40,995 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/src/App.tsx
+2025-08-29 21:46:40,996 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:40,996 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:40,996 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/vite.config.ts
+2025-08-29 21:46:40,997 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:40,997 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:40,997 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/package.json
+2025-08-29 21:46:40,997 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:40,997 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:40,997 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/tsconfig.json
+2025-08-29 21:46:40,998 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:40,998 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:40,998 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/README.md
+2025-08-29 21:46:40,999 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:40,999 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:40,999 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/src/vite-env.d.ts
+2025-08-29 21:46:40,999 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:40,999 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:40,999 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/index.html
+2025-08-29 21:46:41,000 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:41,000 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:41,000 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/README.md
+2025-08-29 21:46:41,001 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:41,001 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:41,001 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/eslint.config.js
+2025-08-29 21:46:41,001 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:41,001 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:41,001 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/tsconfig.node.json
+2025-08-29 21:46:41,002 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:41,002 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:41,002 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/src/index.css
+2025-08-29 21:46:41,002 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:41,002 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:41,002 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/tsconfig.app.json
+2025-08-29 21:46:41,003 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:41,003 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:41,003 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/src/App.css
+2025-08-29 21:46:41,003 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-08-29 21:46:41,003 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7bf3a174a660>
+2025-08-29 21:46:41,003 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/648348/b1358k8/hello-react/vite-project/src/main.tsx
+2025-08-29 21:46:41,004 - Knowledge - INFO - load persisted knowledge: end
+2025-08-29 21:46:41,004 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-29 21:46:41,004 - Knowledge - INFO - load persisted docinfo: end
+2025-08-29 21:46:41,008 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-29 21:46:41,009 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-29 21:46:41,010 - Knowledge - INFO - Knowledge creation complete
+2025-08-29 21:46:41,015 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-08-29 21:46:41,017 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-29 21:46:41,026 - Knowledge - INFO - Knowledge saved to Redis successfully
