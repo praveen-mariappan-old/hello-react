@@ -1039,3 +1039,56 @@
 2025-09-03 12:04:53,375 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-09-03 12:04:53,421 - Knowledge - INFO - Saving knowledge to Redis...
 2025-09-03 12:04:53,426 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-09-04 09:37:10,305 - Knowledge - INFO - Redis support added with prefix knowledge:b66658i:
+2025-09-04 09:37:10,480 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-04 09:37:10,493 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,494 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,494 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/src/App.tsx
+2025-09-04 09:37:10,504 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,504 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,505 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/tsconfig.json
+2025-09-04 09:37:10,523 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,526 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,526 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/README.md
+2025-09-04 09:37:10,535 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,536 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,536 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/src/main.tsx
+2025-09-04 09:37:10,543 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,544 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,544 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/vite.config.ts
+2025-09-04 09:37:10,564 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,565 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,565 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/tsconfig.node.json
+2025-09-04 09:37:10,601 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,601 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,601 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/src/App.css
+2025-09-04 09:37:10,629 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,629 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,629 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/index.html
+2025-09-04 09:37:10,640 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,641 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,641 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/src/index.css
+2025-09-04 09:37:10,649 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,649 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,650 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/eslint.config.js
+2025-09-04 09:37:10,667 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,668 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,668 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/README.md
+2025-09-04 09:37:10,677 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,677 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,677 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/package.json
+2025-09-04 09:37:10,695 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,696 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,696 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/tsconfig.app.json
+2025-09-04 09:37:10,708 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-04 09:37:10,709 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f4cb0578cd0>
+2025-09-04 09:37:10,710 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/7849/b66658i/hello-react/vite-project/src/vite-env.d.ts
+2025-09-04 09:37:10,729 - Knowledge - INFO - load persisted knowledge: end
+2025-09-04 09:37:10,729 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-04 09:37:10,731 - Knowledge - INFO - load persisted docinfo: end
+2025-09-04 09:37:10,775 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-04 09:37:10,777 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-04 09:37:10,779 - Knowledge - INFO - Knowledge creation complete
+2025-09-04 09:37:10,799 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-04 09:37:11,800 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-04 09:37:11,812 - Knowledge - INFO - Knowledge saved to Redis successfully
