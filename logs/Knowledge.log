@@ -1360,3 +1360,70 @@
 2025-09-09 13:12:53,604 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-09-09 13:12:53,606 - Knowledge - INFO - Saving knowledge to Redis...
 2025-09-09 13:12:53,611 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-09-09 13:20:22,152 - Knowledge - INFO - Redis support added with prefix knowledge:b63687k:
+2025-09-09 13:20:22,169 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-09 13:20:22,170 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,170 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,170 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,170 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/src/App.tsx
+2025-09-09 13:20:22,171 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,171 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,171 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,171 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/vite.config.ts
+2025-09-09 13:20:22,172 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,172 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,172 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,172 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/package.json
+2025-09-09 13:20:22,172 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,173 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,173 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,173 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/tsconfig.json
+2025-09-09 13:20:22,174 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,174 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,174 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,174 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/README.md
+2025-09-09 13:20:22,175 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,175 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,175 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,175 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/src/vite-env.d.ts
+2025-09-09 13:20:22,175 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,176 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,176 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,176 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/index.html
+2025-09-09 13:20:22,176 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,176 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,176 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,176 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/README.md
+2025-09-09 13:20:22,177 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,177 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,177 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,177 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/eslint.config.js
+2025-09-09 13:20:22,178 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,178 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,178 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,178 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/tsconfig.node.json
+2025-09-09 13:20:22,178 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,178 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,179 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,179 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/src/index.css
+2025-09-09 13:20:22,180 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,180 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,180 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,180 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/tsconfig.app.json
+2025-09-09 13:20:22,181 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,181 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,181 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,181 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/src/App.css
+2025-09-09 13:20:22,181 - Knowledge - INFO - Found code-base-name: https://github.com/praveen-mariappan/hello-react.git:main
+2025-09-09 13:20:22,181 - Knowledge - INFO - Code base not found for https://github.com/praveen-mariappan/hello-react.git:main. Joining with Knowledge base_path: True.
+2025-09-09 13:20:22,181 - Knowledge - INFO - /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react
+2025-09-09 13:20:22,181 - Knowledge - INFO - process ingested knowledge for /home/ubuntu/graphnode-backend-api/data/T0005/652407/b63687k/hello-react/vite-project/src/main.tsx
+2025-09-09 13:20:22,182 - Knowledge - INFO - load persisted knowledge: end
+2025-09-09 13:20:22,182 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-09 13:20:22,182 - Knowledge - INFO - load persisted docinfo: end
+2025-09-09 13:20:22,186 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-09 13:20:22,186 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-09 13:20:22,187 - Knowledge - INFO - Knowledge creation complete
+2025-09-09 13:20:22,193 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-09 13:20:22,195 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-09 13:20:22,199 - Knowledge - INFO - Knowledge saved to Redis successfully
